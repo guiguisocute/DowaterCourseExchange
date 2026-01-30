@@ -3,6 +3,7 @@
 [此为开发仓库，功能尚未完善]
 
 <div align="center">
+
 **DowaterCourseExchange —— 零门槛的选修换课网站部署平台**
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -24,6 +25,7 @@
 ## 二、快速开始
 
 ## 三、项目结构
+估计到时候得用Next.js作一个简单全栈了
 
 ## 四、开发环境
 
